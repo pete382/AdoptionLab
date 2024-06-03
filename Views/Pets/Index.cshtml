@@ -1,0 +1,21 @@
+﻿@model List<PetCategory>
+
+
+<H5>Choose your Breed!</H5>
+
+<ul>
+	@{
+
+		foreach (PetCategory p in Model)
+		{
+			<li>
+				<a asp-controller="Pets" asp-action="Detail" asp-route-id="@p.Id">@p.Personality</a>
+
+			</li>
+
+		}
+
+	}
+
+
+</ul>

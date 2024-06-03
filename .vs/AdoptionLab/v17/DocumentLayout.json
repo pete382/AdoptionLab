@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\AdoptionLab\\AdoptionLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4A96E1-9F8D-4F7C-8F96-9B5505604C8D}|AdoptionLab.csproj|c:\\users\\administrator\\source\\repos\\adoptionlab\\adoptionlab\\controllers\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4A96E1-9F8D-4F7C-8F96-9B5505604C8D}|AdoptionLab.csproj|solutionrelative:controllers\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4A96E1-9F8D-4F7C-8F96-9B5505604C8D}|AdoptionLab.csproj|c:\\users\\administrator\\source\\repos\\adoptionlab\\adoptionlab\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC4A96E1-9F8D-4F7C-8F96-9B5505604C8D}|AdoptionLab.csproj|solutionrelative:views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4A96E1-9F8D-4F7C-8F96-9B5505604C8D}|AdoptionLab.csproj|c:\\users\\administrator\\source\\repos\\adoptionlab\\adoptionlab\\views\\pets\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC4A96E1-9F8D-4F7C-8F96-9B5505604C8D}|AdoptionLab.csproj|solutionrelative:views\\pets\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pets.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AdoptionLab\\AdoptionLab\\Controllers\\Pets.cs",
+              "RelativeDocumentMoniker": "Controllers\\Pets.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AdoptionLab\\AdoptionLab\\Controllers\\Pets.cs",
+              "RelativeToolTip": "Controllers\\Pets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:23:52.769Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AdoptionLab\\AdoptionLab\\Views\\Pets\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AdoptionLab\\AdoptionLab\\Views\\Pets\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pets\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:24:23.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AdoptionLab\\AdoptionLab\\Views\\Pets\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pets\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AdoptionLab\\AdoptionLab\\Views\\Pets\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Pets\\Detail.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAzwEoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T00:29:04.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
